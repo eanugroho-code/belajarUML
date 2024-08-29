@@ -1,2 +1,3 @@
 ini adalah contoh class diagram
-![NO_1QiCm38RlUWeVDqgWwsrbXmPQrZ18HbaUG3GYCxNTODcCqktTPoSgeRqvN_Jz-hNXW3v4Q-1ea5aDvFdihb0ujAZMYeFNheS2UqfVsWLOz1HgjFJqhDRoDwEoJqH6_a3I0k7nctoA8pkOyuMghMIADU5gEuVDCeVOaGj9bjUZ_815dYvGR](https://github.com/user-attachments/assets/5624880a-ac63-4910-a798-5e11085a7d59)
+
+![Uploading PL3BQWCn3BphAtHV_0CvbD1R3eL2lq2rHRf4jXVBBfJIV-ygNhTPzcGzPaOpFckbKbiKy4Ag-4BbndKHyepVu1950YVPKvrpWeb2U6CHBZ0LZlcJ_xlhh9NBS_kojgNzu0Ss_OvVbVLUNCBz1eFZIBF092lfjUJGV1qdHlkdOP8cyMxlGM5fn.png…]()
