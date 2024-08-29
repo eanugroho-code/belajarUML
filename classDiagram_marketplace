@@ -1,0 +1,40 @@
+@startuml
+class Marketplace {
+-nama
+-location
++addSeller
++removeSeller
++registerBuyer
++unregisterBuyer
+}
+
+class Seller{
+-sellerId
+-name
+-email
++listProduct
++removeProduct
+}
+
+class Buyer{
+-buyerId
+-name
+-email
++purchaseProduct
+}
+
+class Product {
+-productId 
+-name 
+-price 
+-stock 
+}
+
+
+Marketplace  -- Seller : manages >
+Marketplace  -- Buyer : register >
+Seller -- Product : sells >
+Buyer -- Product :purchase >
+
+
+@enduml
