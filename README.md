@@ -1,3 +1,5 @@
+Membuat Diagram menggunakan aplikasi online  "https://www.plantuml.com/"
+
 ini adalah contoh class diagram
 
 ![PL3BQWCn3BphAtHV_0CvbD1R3eL2lq2rHRf4jXVBBfJIV-ygNhTPzcGzPaOpFckbKbiKy4Ag-4BbndKHyepVu1950YVPKvrpWeb2U6CHBZ0LZlcJ_xlhh9NBS_kojgNzu0Ss_OvVbVLUNCBz1eFZIBF092lfjUJGV1qdHlkdOP8cyMxlGM5fn](https://github.com/user-attachments/assets/ce67c00d-641b-44a7-a79b-ddfaa323625b)
